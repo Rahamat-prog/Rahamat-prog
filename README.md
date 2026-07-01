@@ -1,6 +1,5 @@
 # About Me:
-## About Me<br><br>I'm currently building full-stack web applications and improving my problem-solving skills through real-world projects.<br><br>I'm interested in collaborating on open-source projects where I can learn, contribute, and grow as a developer.<br><br>At the moment, I'm exploring Node.js, Express.js, MongoDB, Firebase, TypeScript, and advanced React concepts.<br><br>Feel free to ask me about React, JavaScript, TypeScript, Tailwind CSS, Redux, or frontend development.<br><br>My goal is to become a software engineer who builds clean, scalable, and user-friendly web applications.<br><br>Outside of coding, I enjoy learning new technologies, improving my English communication skills, and turning ideas into working projects.<br>
-
+## About Me<br><br>I'm currently building full-stack web applications and improving my problem-solving skills through real-world projects.<br><br>I'm interested in collaborating on open-source projects where I can learn, contribute, and grow as a developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahamat-shaikh-b71187228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahamatshaikdeveloper@gmail.com) 
