@@ -1,6 +1,4 @@
 I'm currently building full-stack web applications and improving my problem-solving skills through real-world projects.<br><br>I'm interested in collaborating on open-source projects where I can learn, contribute, and grow as a developer.
-## Tech Stack
-JavaScript, TypeScript, React, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Git & GitHub
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahamat-shaikh-b71187228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahamatshaikdeveloper@gmail.com) 
